@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\KlasaIobjektiPonavljanje\KlasaIobjektiPonavljanje\bin\Debug\KlasaIobjektiPonavljanje.exe.config
+C:\Users\ucenik\source\repos\KlasaIobjektiPonavljanje\KlasaIobjektiPonavljanje\bin\Debug\KlasaIobjektiPonavljanje.exe
+C:\Users\ucenik\source\repos\KlasaIobjektiPonavljanje\KlasaIobjektiPonavljanje\bin\Debug\KlasaIobjektiPonavljanje.pdb
+C:\Users\ucenik\source\repos\KlasaIobjektiPonavljanje\KlasaIobjektiPonavljanje\obj\Debug\KlasaIobjektiPonavljanje.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\KlasaIobjektiPonavljanje\KlasaIobjektiPonavljanje\obj\Debug\KlasaIobjektiPonavljanje.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\KlasaIobjektiPonavljanje\KlasaIobjektiPonavljanje\obj\Debug\KlasaIobjektiPonavljanje.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\KlasaIobjektiPonavljanje\KlasaIobjektiPonavljanje\obj\Debug\KlasaIobjektiPonavljanje.exe
+C:\Users\ucenik\source\repos\KlasaIobjektiPonavljanje\KlasaIobjektiPonavljanje\obj\Debug\KlasaIobjektiPonavljanje.pdb
